@@ -8,6 +8,5 @@ public class RequestForm {
     private int minusCash;
     private int creditTime;
     private int creditCash;
-
-    private int cos;
+    
 }
